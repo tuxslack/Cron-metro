@@ -37,3 +37,9 @@ Se clicar várias vezes no **"botão Iniciar"** ele vai acelerando o tempo.
 **Cronômetro acelerado**
 
 ![](https://github.com/tuxslack/Cronometro/blob/36e0239f7c110ef0f7a94a7d2a95f65acf1e350c/cronometro%20acelerado.png)
+
+
+**Cronômetro - problema com hora**
+
+![](https://github.com/tuxslack/Cronometro/blob/5c8dc9520c0cf9f72f6457cb3125829b5a263290/cronometro%20-%20problema%20com%20hora.png)
+
