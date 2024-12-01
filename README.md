@@ -28,6 +28,9 @@ Se clicar várias vezes no **"botão Iniciar"** ele vai acelerando o tempo.
 
 **[Corrigido]** - Desabilitado o **botão Iniciar** quando o cronômetro estiver rodando para habilitar de volta clica no **botão Pausar** duas vezes.
 
+<br> 
+
+[![Watch the video](https://img.youtube.com/vi/Z2f4XTC84hc/maxresdefault.jpg)](https://www.youtube.com/watch?v=Z2f4XTC84hc)
 
 <br> <br>
 
